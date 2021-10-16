@@ -1,12 +1,12 @@
 fn fizzbuzz(n: i32) -> String {
     if n % 15 == 0 {
-        return format!("FizzBuzz");
+        "FizzBuzz".to_string()
     } else if n % 3 == 0 {
-        return format!("Fizz");
+        "Fizz".to_string()
     } else if n % 5 == 0 {
-        return format!("Buzz");
+        "Buzz".to_string()
     } else {
-        return n.to_string();
+        n.to_string()
     }
 }
 
