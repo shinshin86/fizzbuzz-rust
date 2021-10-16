@@ -31,3 +31,9 @@ FizzBuzz
 .
 ```
 
+## Test
+
+```sh
+cargo test
+```
+
