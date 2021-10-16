@@ -1,5 +1,7 @@
 # fizzbuzz-rust
 
+[![Rust CI](https://github.com/shinshin86/fizzbuzz-rust/actions/workflows/main.yml/badge.svg)](https://github.com/shinshin86/fizzbuzz-rust/actions/workflows/main.yml)
+
 I wrote FizzBuzz to learn Rust.
 
 ## Run
