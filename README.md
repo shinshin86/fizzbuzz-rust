@@ -39,3 +39,21 @@ FizzBuzz
 cargo test
 ```
 
+## Compile check
+
+```
+cargo check
+```
+
+## Lint
+
+```
+cargo clippy
+```
+
+## Format
+
+```
+cargo fmt
+```
+
